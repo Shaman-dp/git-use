@@ -86,6 +86,13 @@ git log
 ``` 
 
 
+```bash
+git reset HEAD~1
+```
+```bash
+git push --force
+```
+
 
 
 **Possibly Errors**
